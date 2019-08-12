@@ -1,2 +1,4 @@
 .vscode/
-pkg/transaction/storage/*
+pkg/transaction/storage/account_state.json
+pkg/transaction/storage/transaction_history
+

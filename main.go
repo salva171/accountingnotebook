@@ -8,6 +8,6 @@ import (
 
 
 func main() {
-	fmt.Println("Server start")
+	fmt.Println("Server start, listening on port 8080")
 	fmt.Println(http.ListenAndServe(":8080",transaction.Router()))
 }
