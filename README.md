@@ -3,7 +3,7 @@
 
 ## Getting Started
 
-To run the project in your local machine first you have to make sure you have the port 8080 avalable.
+To run the project in your local machine first you have to make sure you have the port 8080 available.
 
 
 Go to the root directory of the project and run the next command 
