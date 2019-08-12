@@ -3,10 +3,16 @@
 
 ## Getting Started
 
+```
+git clone https://github.com/salva171/accountingnotebook.git
+```
+
+
+
 To run the project in your local machine first you have to make sure you have the port 8080 available.
 
 
-Go to the root directory of the project and run the next command 
+Go to the root directory of the project and run the binary with the next command 
 
 ```
 cd /home/user/accountingnotebook/
